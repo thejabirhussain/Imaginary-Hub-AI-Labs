@@ -1,4 +1,4 @@
-# Imaginary Hub: Mathematical Foundations & AI Engineering
+# Imaginary Hub AI Lab: Mathematical Foundations & AI Engineering
 
 Welcome to the official **Imaginary Hub** repository! This repo serves as the central hub for our dual-path AI curriculum: theoretical foundations (In-Depth Lectures) and production-grade engineering builds (Build Sunday).
 
