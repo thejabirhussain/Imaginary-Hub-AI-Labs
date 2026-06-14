@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables (sensitive info)
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+*$py.class
+
+# Local Databases and User Uploads
+data/vector_db/
+data/uploads/*.pdf
+
+# IDE folders
+.idea/
+.vscode/
+.DS_Store
