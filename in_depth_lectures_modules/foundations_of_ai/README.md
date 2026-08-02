@@ -14,7 +14,10 @@ This module builds the mathematical literacy required to read AI research papers
   * **Lecture Notes**: [Linear Algebra 01 Notes](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary_Hub/in_depth_lectures_modules/foundations_of_ai/linear_algebra_01_notes.md)
 * **Week 2: Multivariate Calculus & Optimization** *(Coming Next Wednesday)*
 * **Week 3: Probability & Statistics for AI** *(Coming Soon)*
-* **Week 4: Principal Component Analysis (PCA) & Dimensionality Reduction** *(Coming Soon)*
+* **Week 4: Principal Component Analysis (PCA) & Dimensionality Reduction**
+  * **Topics**: The curse of dimensionality, mean centering, variance & covariance, the covariance matrix, eigendecomposition as PCA's engine, ranking principal components, and projecting data onto them.
+  * **Lecture Notes**: [PCA & Dimensionality Reduction Notes](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary-Hub-AI-Labs/in_depth_lectures_modules/foundations_of_ai/pca_dimensionality_reduction_notes.md)
+  * **Companion code**: [`build_sunday/ep4_pca_from_scratch`](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary-Hub-AI-Labs/build_sunday/ep4_pca_from_scratch)
 
 ---
 

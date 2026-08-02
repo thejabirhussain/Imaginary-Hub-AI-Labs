@@ -8,7 +8,9 @@ Welcome to the **In-Depth Lectures Modules** repository folder. This area is ded
 
 ### 1. [Foundations of AI](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary_Hub/in_depth_lectures_modules/foundations_of_ai)
 Theoretical underpinnings of AI models, focusing on linear algebra, multivariate calculus, optimization, stats, and dimensional transforms.
-* Contains Week 1 lecture notes: [Linear Algebra 01 Notes](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary_Hub/in_depth_lectures_modules/foundations_of_ai/linear_algebra_01_notes.md)
+* Contains Week 1 lecture notes: [Linear Algebra 01 Notes](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary-Hub-AI-Labs/in_depth_lectures_modules/foundations_of_ai/linear_algebra_01_notes.md)
+* Contains Week 2 lecture notes: [Linear Algebra 02 Notes](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary-Hub-AI-Labs/in_depth_lectures_modules/foundations_of_ai/linear_algebra_02_notes.md)
+* Contains Week 4 lecture notes: [PCA & Dimensionality Reduction Notes](file:///Users/shaikmohammedjabirhussain/Desktop/Imaginary_Hub_content/Imaginary-Hub-AI-Labs/in_depth_lectures_modules/foundations_of_ai/pca_dimensionality_reduction_notes.md)
 
 ---
 
