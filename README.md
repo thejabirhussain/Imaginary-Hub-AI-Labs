@@ -33,3 +33,11 @@ Writings, architectures, and full codebases for our weekly end-to-end coding pro
 ## 🔗 YouTube Channel
 Follow the video walkthroughs and lectures on Imaginary Hub to learn along!  
 *Subscribe to keep updated with Week 3 Multivariate Calculus & Build Sunday Episode 5 (SVD + Recommendation Systems).*
+
+---
+
+## Ownership and licence
+
+Copyright (c) 2026 **Mohammed Jabir Hussain Shaik** ([@thejabirhussain](https://github.com/thejabirhussain)). **All rights reserved.**
+
+This is proprietary work, published for viewing and evaluation only. Copying, reusing, modifying, redistributing, using it to train AI models, or presenting any part of it as your own is **not permitted** without written permission. See [LICENSE](LICENSE). Permission requests: thejabirhussain@gmail.com
